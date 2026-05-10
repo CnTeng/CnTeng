@@ -1,9 +1,9 @@
 ## Github Stats
 
 <a href="https://github.com/CnTeng">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=CnTeng&hide=contribs&show_icons=true&theme=transparent" />
+  <img height=180 align="center" src="./assets/stats.svg" />
 </a>
 
 <a href="https://github.com/CnTeng">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CnTeng&layout=compact&theme=transparent"/>
+  <img height=180 align="center" src="./assets/langs.svg"/>
 </a>
